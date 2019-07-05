@@ -1,0 +1,4 @@
+<?php
+    $cumprimento = "Olá!";
+
+?>
